@@ -1,7 +1,7 @@
 # 🧗‍♂️ Blobcoding
 **`Web Developer`**
 
-Howdy! I'm Patrik Nürnberger, an optimization nerd and a web developer with a passion for crafting beautiful and engaging websites. I'm very passionate about solving complicated problems and creating software solutions 🤖. When I'm not coding, you can usually find me exploring the outdoors, tinkering with electronics, or experimenting with new recipes in the kitchen.
+Howdy! I'm Patrik Nürnberger,  a web developer with a passion for crafting beautiful and engaging websites and a optimization nerd. I'm very passionate about solving complicated problems and creating software solutions 🤖. When I'm not coding, you can usually find me exploring the outdoors, tinkering with electronics, or experimenting with new recipes in the kitchen.
 
 <br />
 
