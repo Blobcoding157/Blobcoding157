@@ -2,25 +2,26 @@
 
 <hr>
 
-
+<div align="center" display="flex" flex-direction="row" justify-content="center">
 <!-- Light Mode -->
-<div align="center"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?    username=Blobcoding157&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=cobalt#gh-light-mode-only" alt="Rick Staa's Language stats" />
-  </a>
-  <a href="https://github.com/Blobcoding157/github-readme-stats#gh-light-mode-only">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Blobcoding157&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=cobalt#gh-light-mode-only" alt="Rick Staa's Github stats" />
-  </a>
-</div>
+  <div align="center"> 
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+      <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?    username=Blobcoding157&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=cobalt#gh-light-mode-only" alt="Rick Staa's Language stats" />
+    </a>
+    <a href="https://github.com/Blobcoding157/github-readme-stats#gh-light-mode-only">
+      <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Blobcoding157&show_icons=true&count_private=true&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=cobalt#gh-light-mode-only" alt="Rick Staa's Github stats" />
+    </a>
+  </div>
 
 <!-- Dark Mode -->
-<div align="center" display="flex" flex-direction="row" justify-content="center"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Blobcoding157&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&show_icons=true&theme=ayu-mirage&bg_color=030917#gh-dark-mode-only"   alt="Patrik's Language stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Blobcoding157&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&show_icons=true&theme=ayu-mirage&bg_color=030917#gh-dark-mode-only" alt="Patriks's Github stats" />
-  </a>
+  <div align="center"> 
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+      <img height=200 src="https://github-readme-stats.vercel.app/api?username=Blobcoding157&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&show_icons=true&theme=ayu-mirage&bg_color=030917#gh-dark-mode-only"   alt="Patrik's Language stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+      <img height=200 src="https://github-readme-stats.vercel.app/api?username=Blobcoding157&show_icons=true&count_private=true&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&show_icons=true&theme=ayu-mirage&bg_color=030917#gh-dark-mode-only" alt="Patriks's Github stats" />
+    </a>
+  </div>
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,react,nextjs,python,html,css,sass,figma,postgres,postman,jest&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
