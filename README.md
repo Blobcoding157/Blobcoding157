@@ -19,19 +19,19 @@ Howdy! I'm Patrik Nürnberger,  a web developer with a passion for crafting beau
 <!-- Dark Mode -->
   <div align="center"> 
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blobcoding157&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=ayu-mirage&bg_color=030917#gh-dark-mode-only"   alt="Patrik's Language stats" />
+      <img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blobcoding157&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=ayu-mirage&bg_color=030917#gh-dark-mode-only"   alt="Patrik's Language stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-      <img height=200 src="https://github-readme-stats.vercel.app/api?username=Blobcoding157&count_private=true&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&show_icons=true&theme=ayu-mirage&bg_color=030917#gh-dark-mode-only" alt="Patriks's Github stats" />
+      <img height=185 src="https://github-readme-stats.vercel.app/api?username=Blobcoding157&count_private=true&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&show_icons=true&theme=ayu-mirage&bg_color=030917#gh-dark-mode-only" alt="Patriks's Github stats" />
     </a>
   </div>
   <!-- Light Mode -->
   <div align="center"> 
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-      <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?    username=Blobcoding157&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=cobalt#gh-light-mode-only" alt="Rick Staa's Language stats" />
+      <img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blobcoding157&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=cobalt#gh-light-mode-only" alt="Patrik's Language stats" />
     </a>
     <a href="https://github.com/Blobcoding157/github-readme-stats#gh-light-mode-only">
-      <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Blobcoding157&show_icons=true&count_private=true&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=cobalt#gh-light-mode-only" alt="Rick Staa's Github stats" />
+      <img height=185 src="https://github-readme-stats.vercel.app/api?username=Blobcoding157&show_icons=true&count_private=true&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=cobalt#gh-light-mode-only" alt="Patriks's Github stats" />
     </a>
   </div>
   <br />
