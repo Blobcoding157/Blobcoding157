@@ -28,10 +28,10 @@ Howdy! I'm Patrik Nürnberger,  a web developer with a passion for crafting beau
   <!-- Light Mode -->
   <div align="center"> 
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-      <img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blobcoding157&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=cobalt#gh-light-mode-only" alt="Patrik's Language stats" />
+      <img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blobcoding157&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=gruvbox_light#gh-light-mode-only" alt="Patrik's Language stats" />
     </a>
     <a href="https://github.com/Blobcoding157/github-readme-stats#gh-light-mode-only">
-      <img height=185 src="https://github-readme-stats.vercel.app/api?username=Blobcoding157&show_icons=true&count_private=true&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=cobalt#gh-light-mode-only" alt="Patriks's Github stats" />
+      <img height=185 src="https://github-readme-stats.vercel.app/api?username=Blobcoding157&show_icons=true&count_private=true&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=gruvbox_light#gh-light-mode-only" alt="Patriks's Github stats" />
     </a>
   </div>
   <br />
