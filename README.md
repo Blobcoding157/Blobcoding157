@@ -1,5 +1,7 @@
 # 🧗‍♂️ Blobcoding
+
 **`Web Developer`**
+
 
 Howdy! I'm Patrik Nürnberger,  a web developer with a passion for crafting beautiful and engaging websites and a optimization nerd. I'm very passionate about solving complicated problems and creating software solutions 🤖. When I'm not coding, you can usually find me exploring the outdoors, tinkering with electronics, or experimenting with new recipes in the kitchen.
 
@@ -14,7 +16,7 @@ Howdy! I'm Patrik Nürnberger,  a web developer with a passion for crafting beau
   
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,react,nextjs,python,html,css,sass,figma,postgres,postman,jest&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
   
-  ## 📊 Github contributions
+  ## 📊 Github contributions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     
 <!-- Dark Mode -->
   <div align="center"> 
@@ -28,15 +30,20 @@ Howdy! I'm Patrik Nürnberger,  a web developer with a passion for crafting beau
   <!-- Light Mode -->
   <div align="center"> 
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-      <img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blobcoding157&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=gruvbox_light#gh-light-mode-only" alt="Patrik's Language stats" />
+      <img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blobcoding157&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=vue#gh-light-mode-only" alt="Patrik's Language stats" />
     </a>
     <a href="https://github.com/Blobcoding157/github-readme-stats#gh-light-mode-only">
-      <img height=185 src="https://github-readme-stats.vercel.app/api?username=Blobcoding157&show_icons=true&count_private=true&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=gruvbox_light#gh-light-mode-only" alt="Patriks's Github stats" />
+      <img height=185 src="https://github-readme-stats.vercel.app/api?username=Blobcoding157&show_icons=true&count_private=true&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=vue#gh-light-mode-only" alt="Patriks's Github stats" />
     </a>
   </div>
   <br />
 
 [![Patrik's github activity graph](https://github-graph.herokuapp.com/graph?username=Blobcoding157&hide_border=true&radius=15&theme=gruvbox&hide_title=true&bg_color=020712)](https://github.com/Blobcoding157#gh-dark-mode-only)
   
-[![Patrik's github activity graph](https://github-graph.herokuapp.com/graph?username=Blobcoding157&hide_border=true&radius=15&theme=gruvbox&hide_title=true&line=020712&color=3572A5&point=3572A5)](https://github.com/Blobcoding157#gh-light-mode-only)
+[![Patrik's github activity graph](https://github-graph.herokuapp.com/graph?username=Blobcoding157&hide_border=true&radius=15&theme=vue&color=000000&bg_color=ffffff&point=00E97F&hide_title=true)](https://github.com/Blobcoding157#gh-light-mode-only)
+
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
