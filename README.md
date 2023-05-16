@@ -16,7 +16,7 @@ Howdy! I'm Patrik Nürnberger,  a web developer with a passion for crafting beau
   
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,react,nextjs,python,html,css,sass,figma,postgres,postman,jest&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
   
-  ## 📊 Github contributions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+  ## 📊 Github stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
     
 <!-- Dark Mode -->
   <div align="center"> 
